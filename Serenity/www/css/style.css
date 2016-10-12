@@ -1,0 +1,72 @@
+.bar.bar-stable {
+    border: none;
+    background-color: #508329;
+    margin: 0;
+}
+
+#button-song-controls {
+    border-radius: 3px;
+    margin-left: 2.5%;
+    max-width: 95%;
+}
+
+#button-start {
+    border-radius: 3px;
+    margin-left: 2.5%;
+    max-width: 95%;
+}
+
+#footer-text {
+    color: white;
+    text-align: center;
+}
+
+#help {
+    padding-top: inherit;
+    color: white;
+    font-size: 30px;
+}
+
+#logo {
+    max-width: 100%;
+    max-height: 40%;
+    display: block;
+    margin: auto;
+}
+
+.item-text-center {
+    text-align: center;
+}
+
+/*
+#introduction {
+    max-width: 90%;
+    padding-left: 5%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+    
+
+.bar.bar-stable {
+    border: none;
+    background-color: #508329;
+    margin: 0;
+}
+
+.pulsate {
+    -webkit-animation: pulsate 20s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.5;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.5;
+    }
+}*/

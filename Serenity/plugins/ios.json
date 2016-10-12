@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.jgunstad.serenity"
+        }
+    }
+}
